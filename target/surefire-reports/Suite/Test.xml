@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="pc" tests="1" failures="0" timestamp="15 Jan 2021 04:02:10 GMT" time="29.963" errors="0">
+  <testcase name="test" time="29.91" classname="MavenProject"/>
+</testsuite>
