@@ -12,6 +12,7 @@ public class MavenProject
 		WebDriverManager.firefoxdriver().setup();
 		WebDriver driver=new FirefoxDriver();
 		driver.get("https://www.google.co.in/");
+		driver.get("https://www.facebook.com");
 		
 		System.out.println("Hello");
 	}
